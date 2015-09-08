@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--综合-->
+    <array name="comprehensive_arrays">
+        <item name="news">资讯</item>
+        <item name="hots">热点</item>
+        <item name="blog">博客</item>
+        <item name="recommand">推荐</item>
+    </array>
+    <!--动弹-->
+    <array name="move_arrays">
+        <item name="last_move">最新动弹</item>
+        <item name="hot_move">热门动弹</item>
+        <item name="my_move">我的动弹</item>
+    </array>
+</resources>

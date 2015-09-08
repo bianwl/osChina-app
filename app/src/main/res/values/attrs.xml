@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="topbar">
+        <attr name="lefttext" format="string"/>
+        <attr name="leftdrawable" format="reference"/>
+        <attr name="lefttextcolor" format="color"/>
+        <attr name="lefttextsize" format="dimension"/>
+        <attr name="rightbackground" format="reference"/>
+        <attr name="rightwidth" format="dimension"/>
+        <attr name="rightheight" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="ViewPagerIndicator">
+        <!-- Style of the tab indicator's tabs. -->
+        <attr name="vpiTabPageIndicatorStyle" format="reference"/>
+    </declare-styleable>
+
+</resources>

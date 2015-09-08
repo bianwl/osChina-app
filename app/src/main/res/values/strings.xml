@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">开源中国</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="comprehensive">综合</string>
+    <string name="move">动弹</string>
+    <string name="found">发现</string>
+    <string name="me">我</string>
+
+    <!--我-->
+    <string name="friends">好友圈</string>
+    <string name="finduser">找人</string>
+    <string name="event">活动</string>
+    <string name="scan">扫一扫</string>
+    <string name="shake">摇一摇</string>
+    
+    <string name="score">积分</string>
+    <string name="favorite">收藏</string>
+    <string name="focus">关注</string>
+    <string name="fans">粉丝</string>
+
+    <string name="news">消息</string>
+    <string name="blog">博客</string>
+    <string name="note">便签</string>
+    <string name="team">团队</string>
+</resources>
